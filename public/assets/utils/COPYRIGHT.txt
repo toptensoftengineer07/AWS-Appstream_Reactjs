@@ -1,0 +1,5 @@
+/**
+ * appstream_embed.js
+ * Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ * Provided as AWS Content and subject to the AWS Customer agreement and any other agreement with AWS governing your use of AWS services.
+ */
